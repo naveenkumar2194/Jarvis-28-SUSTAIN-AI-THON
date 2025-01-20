@@ -1,6 +1,6 @@
 # Jarvis-28-SUSTAIN-AI-THON
 **MindLink AI**
-/n
+\n
 Brief Introduction
 MindLink AI is an innovative mental health support platform designed to assess and provide real-time feedback on emotional well-being for students. By integrating an AI chatbot with avatar face conversations and facial emotion recognition, the system offers a comprehensive solution for detecting stress, anxiety, and depression, while providing personalized treatment suggestions. This project aims to make mental health support more accessible and effective through AI-driven technology.
 **Workflow Diagram**
